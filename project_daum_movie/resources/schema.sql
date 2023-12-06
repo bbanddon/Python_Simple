@@ -11,5 +11,3 @@ CREATE TABLE `tbl_review` (
 COMMENT='다음 영화 리뷰'
 AUTO_INCREMENT=1
 ;
-
-TRUNCATE tbl_review;
